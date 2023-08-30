@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/perksystems-react-app/static/css/main.3b19d71a.css",
+    "main.js": "/perksystems-react-app/static/js/main.902c5385.js",
+    "static/media/ccs-image2.png": "/perksystems-react-app/static/media/ccs-image2.a47e0f3f3e707dbff8e6.png",
+    "static/media/ad-image2.webp": "/perksystems-react-app/static/media/ad-image2.f214f39039fea6c19c68.webp",
+    "static/media/services-image2.jpg": "/perksystems-react-app/static/media/services-image2.ea6ed541ad18a9dc8f0c.jpg",
+    "static/media/home-image.jpg": "/perksystems-react-app/static/media/home-image.eb83357c22f161106a34.jpg",
+    "static/media/ad-image.avif": "/perksystems-react-app/static/media/ad-image.05f349a2336ac1aa3981.avif",
+    "static/media/clients-image.jpg": "/perksystems-react-app/static/media/clients-image.ac4ace99105235737066.jpg",
+    "static/media/aboutus-image.jpg": "/perksystems-react-app/static/media/aboutus-image.92ff8ebf048970573175.jpg",
+    "static/media/training-image.webp": "/perksystems-react-app/static/media/training-image.0a6edadd2153071f219c.webp",
+    "static/media/training-image2.webp": "/perksystems-react-app/static/media/training-image2.27e3ada9b2cda6704ba7.webp",
+    "static/media/ccs-image3.avif": "/perksystems-react-app/static/media/ccs-image3.2c5fe6f0189154a1ac3b.avif",
+    "static/media/services-image.webp": "/perksystems-react-app/static/media/services-image.020710598a3657edce89.webp",
+    "static/media/Login-image.jpg": "/perksystems-react-app/static/media/Login-image.edaa174057883f12592f.jpg",
+    "index.html": "/perksystems-react-app/index.html",
+    "main.3b19d71a.css.map": "/perksystems-react-app/static/css/main.3b19d71a.css.map",
+    "main.902c5385.js.map": "/perksystems-react-app/static/js/main.902c5385.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b19d71a.css",
+    "static/js/main.902c5385.js"
+  ]
+}
