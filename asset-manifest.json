@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/perksystems-react-app/static/css/main.4b8eb364.css",
-    "main.js": "/perksystems-react-app/static/js/main.8f8d07a1.js",
+    "main.js": "/perksystems-react-app/static/js/main.703c42a8.js",
     "static/media/ccs-image2.png": "/perksystems-react-app/static/media/ccs-image2.a47e0f3f3e707dbff8e6.png",
     "static/media/ad-image2.webp": "/perksystems-react-app/static/media/ad-image2.f214f39039fea6c19c68.webp",
     "static/media/services-image2.jpg": "/perksystems-react-app/static/media/services-image2.ea6ed541ad18a9dc8f0c.jpg",
@@ -16,10 +16,10 @@
     "static/media/Login-image.jpg": "/perksystems-react-app/static/media/Login-image.edaa174057883f12592f.jpg",
     "index.html": "/perksystems-react-app/index.html",
     "main.4b8eb364.css.map": "/perksystems-react-app/static/css/main.4b8eb364.css.map",
-    "main.8f8d07a1.js.map": "/perksystems-react-app/static/js/main.8f8d07a1.js.map"
+    "main.703c42a8.js.map": "/perksystems-react-app/static/js/main.703c42a8.js.map"
   },
   "entrypoints": [
     "static/css/main.4b8eb364.css",
-    "static/js/main.8f8d07a1.js"
+    "static/js/main.703c42a8.js"
   ]
 }
